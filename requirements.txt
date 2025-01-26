@@ -1,0 +1,10 @@
+Pillow
+base64
+joblib
+json
+numpy
+pandas
+plotly
+requests
+streamlit
+streamlit-lottie
